@@ -1,0 +1,13 @@
+{
+  "author": "Eric Dobbs",
+  "wikiDomains": [
+    "wiki.do"
+  ],
+  "subdomains": [
+    "meta.wiki.do"
+  ],
+  "secrets": {
+    "keys": ["LE_EMAIL", "COOKIE_SECRET", "ADMIN"],
+    "data": "encrypted-blob"
+  }
+}
