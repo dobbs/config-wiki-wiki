@@ -1,6 +1,7 @@
 {
   "author": "Eric Dobbs",
   "subdomains": [
+    "burnout.wiki.do",
     "meta.wiki.do"
   ],
   "secrets": {
