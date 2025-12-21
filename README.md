@@ -1,7 +1,4 @@
 # config-wiki-wiki
 
-See [dobbs/droplet-wiki-wiki](https://github.com/dobbs/droplet-wiki-wiki)
-
-To add links to index.html:
-
-    ls *json | perl -lpe 's{^(.*)$}{<p><a href="./$1">$1</a></p>}' >> index.html
+A simple web site to publish configuration files used by
+[dobbs/droplet-wiki-wiki](https://github.com/dobbs/droplet-wiki-wiki)
