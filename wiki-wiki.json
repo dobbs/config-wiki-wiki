@@ -1,6 +1,7 @@
 {
   "author": "Eric Dobbs",
   "subdomains": [
+    "fwf.wiki.dbbs.co",
     "burnout.wiki.do",
     "ddd-patterns.wiki.do",
     "exploreddd25.wiki.do",
@@ -13,7 +14,6 @@
     "code.wiki.dbbs.co",
     "earth.wiki.dbbs.co",
     "frame.wiki.dbbs.co",
-    "fwf.wiki.dbbs.co",
     "goals.pods.wiki.dbbs.co",
     "lfi.wiki.dbbs.co",
     "local-farm.wiki.dbbs.co",
