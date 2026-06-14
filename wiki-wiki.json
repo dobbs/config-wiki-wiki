@@ -1,7 +1,19 @@
 {
   "author": "Eric Dobbs",
   "subdomains": [
+    "wiki.dbbs.co",
+    "begin.wiki.dbbs.co",
+    "code.wiki.dbbs.co",
+    "earth.wiki.dbbs.co",
+    "frame.wiki.dbbs.co",
     "fwf.wiki.dbbs.co",
+    "goals.pods.wiki.dbbs.co",
+    "lfi.wiki.dbbs.co",
+    "local-farm.wiki.dbbs.co",
+    "observable.wiki.dbbs.co",
+    "resume.wiki.dbbs.co",
+    "sketch.wiki.dbbs.co",
+    "tge.wiki.dbbs.co",
     "burnout.wiki.do",
     "ddd-patterns.wiki.do",
     "exploreddd25.wiki.do",
@@ -9,19 +21,7 @@
     "re-patterns.wiki.do"
   ],
   "staging": [
-    "tlsfear.wiki.do",
-    "begin.wiki.dbbs.co",
-    "code.wiki.dbbs.co",
-    "earth.wiki.dbbs.co",
-    "frame.wiki.dbbs.co",
-    "goals.pods.wiki.dbbs.co",
-    "lfi.wiki.dbbs.co",
-    "local-farm.wiki.dbbs.co",
-    "observable.wiki.dbbs.co",
-    "resume.wiki.dbbs.co",
-    "signal.wiki.dbbs.co",
-    "sketch.wiki.dbbs.co",
-    "tge.wiki.dbbs.co"
+    "tlsfear.wiki.do"
   ],
   "secrets": {
     "LE_EMAIL": "ohHbw/IEXDcDcAavsdBc3cxJWhsee9A+u+iQfSwiib9UKfSx4JSU1/gddSQGJSkNioY74RVZC15vjTCbq0qNK+3bwjbQpGATWfOJvFyMXFSD1SydX75FA2QmkAsrQHyIiUvNipahBX6QJu+TgkPKvmsFUwZ+bRwQGEmxMDwx/6LwE+fKKyMhYWvlyI5C6T3pRtIc44RiJhie3a2P/dU0EnAcCUhyS/oMZgE6nt3CjcXEsHYafJCZjTIcodC6RhAuqd1EUf32rT+QFpG85ddhb2zPX4lOIlNZrTNUwHjIVYtkrbzqIN3jCfEU6mAJdf8BCr4dem8x+iZ//hhSc/LhQg==",
